@@ -110,7 +110,7 @@
 				TargetAttributes = {
 					83F9E7DC1EF834AD009EDAA7 = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = 97ELX6TR39;
+						DevelopmentTeam = JVLCKC4WEZ;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -273,7 +273,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 97ELX6TR39;
+				DEVELOPMENT_TEAM = JVLCKC4WEZ;
 				INFOPLIST_FILE = ios_ci_demo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "fr.smartapps.ios-ci-demo";
@@ -285,7 +285,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 97ELX6TR39;
+				DEVELOPMENT_TEAM = JVLCKC4WEZ;
 				INFOPLIST_FILE = ios_ci_demo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "fr.smartapps.ios-ci-demo";
@@ -312,6 +312,7 @@
 				83F9E7F61EF834AD009EDAA7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
